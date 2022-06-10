@@ -1,0 +1,23 @@
+body{
+    background-color: #5c3434;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+#container{
+    background-color: rgb(40, 40, 87);
+    border: 5px solid white;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 2rem;
+}
+#input{
+    width: 100px;
+    margin: 25px;
+}
+#btn{
+    margin: 25px auto auto 5px;
+}
